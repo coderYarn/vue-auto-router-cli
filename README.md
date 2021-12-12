@@ -1,4 +1,4 @@
-# route
+# vue--auto-router-cli
 
 ## Project setup
 ```
